@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artifacts created="2017-03-08 09:06:03" project="project-a" version="1.2127">
+    <artifact created="2016-10-24 12:49:39" projectName="Project Stilton" type="compile" groupId="com.company.system" artifactId="project-cheddar" version="1.06">
+        <scm module="app-name" server="git.com" tag="app-tag-123" type="git" branch="UNKNOWN" repo="repo-name"/>
+        <jenkins id="48" jobName="jenkins-job-name" slave="hostname" url="https://www.google.co.uk"/>
+        <artifactory url="https://www.google.co.uk" buildTag="build-tag-123"/>
+    </artifact>
+    <artifact created="2016-10-24 12:49:39" projectName="Project Cheddar" type="compile" groupId="com.company.system" artifactId="project-xyz" version="3.45">
+        <scm module="app-name" server="git.com" tag="app-tag-123" type="git" branch="UNKNOWN" repo="repo-name"/>
+        <jenkins id="48" jobName="jenkins-job-name" slave="hostname" url="https://www.google.co.uk"/>
+        <artifactory url="https://www.google.co.uk" buildTag="build-tag-123"/>
+    </artifact>
+    <artifact created="2016-10-24 12:49:39" projectName="Project Brie" type="compile" groupId="com.company.system" artifactId="project-xyz" version="3.45">
+        <scm module="app-name" server="git.com" tag="app-tag-123" type="git" branch="UNKNOWN" repo="repo-name"/>
+        <jenkins id="48" jobName="jenkins-job-name" slave="hostname" url="https://www.google.co.uk"/>
+        <artifactory url="https://www.google.co.uk" buildTag="build-tag-123"/>
+    </artifact>
+</artifacts>
+
